@@ -1,0 +1,39 @@
+.ua {
+    background-color: rgb(230, 230, 255);
+    border-radius: 10px;
+
+}
+th { text-align: right;
+    background-color: rgb(231, 226, 226);
+    font-size: 35px;
+    width: 258px;
+    height: 40px;
+    border-radius: 10px;
+    
+
+}
+.calc1  { width: 60px;
+    background-color: gray;
+    border-radius: 50px;
+    text-align: center;
+}
+.calc2 {
+    border-radius: 50px;
+    background-color: gray;
+    text-align: center;
+}
+.calc3 {
+    border-radius: 50px;
+    text-align: center;
+    background-color: gray;
+}
+.calc4 {
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+p {
+    font-weight: bold;
+    font-size: larger;
+}
